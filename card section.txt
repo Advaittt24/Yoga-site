@@ -1,0 +1,51 @@
+        <!-- card section start  -->
+        <div class="container">
+          <div class="row ">
+            <div class="col-sm-3">
+                <div class="card shadow border border-1 border-light-subtle p-2">
+                  <img src="image/yoga-pose.png" class="img-thumbnail" alt="...">
+
+                  <div class="card-body">
+                    <h5 class="card-title">Standing Yoga </h5>
+                    <p class="card-text"></p>
+                    <a href="Standingyoga.html" class="btn btn-warning">Show more</a>
+                    
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="card shadow border border-1 border-light-subtle p-2">
+                <img src="image/sitting yoga.png" class="img-thumbnail"  alt="...">
+
+                <div class="card-body">
+                  <h5 class="card-title">Sitting Yoga </h5>
+                  <p class="card-text"></p>
+                  <a href="sittingyoga.html" class="btn btn-warning">Show more</a>
+                </div>
+              </div> 
+            </div>
+            <div class="col-sm-3">
+              <div class="card shadow border border-1 border-light-subtle p-2">
+                <img src="image/1.png" class="img-thumbnail"  alt="...">
+
+                <div class="card-body">
+                  <h5 class="card-title">Yoga for Beginners</h5>
+                  <p class="card-text"></p>
+                  <a href="yogaforbeginners.html" class="btn btn-warning">Show more</a>
+                </div>
+              </div> 
+            </div>
+            <div class="col-sm-3">
+              <div class="card shadow border border-1 border-light-subtle p-2">
+                <img src="image/core1yoga.jpg" class="img-thumbnail"  alt="...">
+
+                <div class="card-body">
+                  <h5 class="card-title">Core Yoga</h5>
+                  <p class="card-text"></p>
+                  <a href="core.html" class="btn btn-warning">Show more</a>
+                </div>
+              </div> 
+            </div>
+          </div>  
+        </div>    
+    <!-- card section end  -->
